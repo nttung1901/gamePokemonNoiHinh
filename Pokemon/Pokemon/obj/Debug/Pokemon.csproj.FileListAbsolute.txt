@@ -1,0 +1,9 @@
+D:\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+D:\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.AssemblyReference.cache
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+D:\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
